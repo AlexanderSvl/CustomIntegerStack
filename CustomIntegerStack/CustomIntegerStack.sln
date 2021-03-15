@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomIntegerStack", "CustomIntegerStack\CustomIntegerStack.csproj", "{F9E9EF4C-BA29-4A6A-AC6B-7791D04C8BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E9EF4C-BA29-4A6A-AC6B-7791D04C8BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E9EF4C-BA29-4A6A-AC6B-7791D04C8BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E9EF4C-BA29-4A6A-AC6B-7791D04C8BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E9EF4C-BA29-4A6A-AC6B-7791D04C8BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2FB0331-11A3-48B4-BBA4-201FEE3001ED}
+	EndGlobalSection
+EndGlobal
